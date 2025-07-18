@@ -1,5 +1,7 @@
-<p align="center">
 # 🌐 Exemplo simples de TDD com TypeScript
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-4.4.3-3178C6?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/Jest-27.2.0-C21325?style=for-the-badge&logo=jest"/>
   <img src="https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js"/>
